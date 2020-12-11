@@ -38,8 +38,8 @@ You can choose whether {% data variables.large_files.product_name_long %} ({% da
 
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.releases %}
-3. Click **Draft a new release**.
-   ![Releases draft button](/assets/images/help/releases/draft_release_button.png)
+3. Click **Create a new release**.
+   ![Releases create button](/assets/images/help/releases/create_release_button.png)
 4. Type a version number for your release. Versions are based on [Git tags](https://git-scm.com/book/en/Git-Basics-Tagging). We recommend naming tags that fit within [semantic versioning](http://semver.org/).
    ![Releases tagged version](/assets/images/help/releases/releases-tag-version.png)
 5. Use the drop-down menu to select the branch that contains the project you want to release.
